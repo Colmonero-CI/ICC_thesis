@@ -1,2 +1,0 @@
-/proj/sllstore2017021/nobackup/IVO/REF_GENOMES/GCA_028645565.1_P_papio/GCA_028645565.1_Papio_papio_HiC_genomic.fna.gz
-/proj/sllstore2017021/nobackup/IVO/REF_GENOMES/GCF_000951035.1_C_angolensis/GCF_000951035.1_Cang.pa_1.0_genomic.fna.gz
